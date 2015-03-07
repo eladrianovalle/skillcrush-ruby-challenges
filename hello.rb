@@ -1,2 +1,1 @@
-puts "Hello Adda"
-puts "Hello Adriano"
+puts "Hello Wrold, this is Adriano"
